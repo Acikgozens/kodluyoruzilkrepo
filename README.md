@@ -25,3 +25,4 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 
 # License
 [MIT](https://google.com)
+https://www.patika.dev
