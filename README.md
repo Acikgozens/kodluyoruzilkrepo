@@ -1,6 +1,7 @@
 # Kodluyoruz İlk Repo
-
+https://www.patika.dev
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
+
 
 # Installation
 
@@ -25,4 +26,3 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 
 # License
 [MIT](https://google.com)
-https://www.patika.dev
