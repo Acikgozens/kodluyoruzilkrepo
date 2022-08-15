@@ -1,0 +1,19 @@
+body{
+    background-color: cornflowerblue;
+}
+h1,h2,h3,ul,p,a{
+    color: rgb(126, 214, 67);
+    font-size: x-large;
+    text-align: center;
+}
+p,ul{
+    color: aliceblue;
+}
+img{
+    margin-left:262px;
+}
+footer,a{
+    text-align: center;
+    color: darkorange;
+}
+
